@@ -1,6 +1,6 @@
 # Personal Portfolio Website built with React v16
 
-View demo at [Demo](https://react-portfolio-nu-blond.vercel.app/)
+View [Demo](https://react-portfolio-nu-blond.vercel.app/)
 
 -   built using [React](https://reactjs.org)
 -   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
